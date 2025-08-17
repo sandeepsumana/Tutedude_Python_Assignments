@@ -1,3 +1,3 @@
-# Tutedude_Python_Assignment1
+# Tutedude_Python_Assignments
 This repository is for storing tutedude python assignments
 
